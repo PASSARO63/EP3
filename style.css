@@ -1,0 +1,84 @@
+/*Colocamos o header (cabeçalho), cor (cinza)*/
+header {
+    background-color: gray;
+}
+
+/*Colocamos a Terra no header, definimos a largura e altura usando o class="Terra"*/
+.Terra {
+    width: 100px;
+    height: 100px;
+}
+
+/*Colocamos os links das nossas páginas em sequência*/
+nav li {
+    display: inline;
+    margin: 150px;
+    text-align: center;
+}
+
+/*Centralizamos o título*/
+h1 {
+    text-align: center;
+}
+
+/*Centralizamos o subtítulo*/
+h2 {
+    text-align: center;
+}
+
+/*Deixamos os parágrafos mais organizados*/
+div {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/*Centralizamos as imagens utilizando o class="imagem"*/
+.imagem {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*Centralizamos a fonte para ficar em baixo das imagens na medida certa usando o class="fonte"*/
+.fonte {
+    text-align: center;
+}
+
+/*Rodapé onde colocamos as informações e colocamos na cor cinza*/
+footer {
+    background-color: gray;
+}
+
+/*Centralizamos os textos que estão no footer*/
+h3 {
+    text-align: center;
+}
+
+/*Centralizamos as imagens utilizando o class="imagem e colocamos uma borda"*/
+.imagemDUGONGO {
+    height: 300px;
+     width: 500px;
+     display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10%;
+}
+
+/*Centralizamos as imagens utilizando o class="imagem e colocamos uma borda em volta"*/
+.imagemAXALOTE{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10%;
+}
+
+/*Centralizamos as imagens utilizando o class="imagem e colocamos uma borda em volta"*/
+.imagemGALEOPITECO{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10%;
+}
+
+
+
